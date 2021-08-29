@@ -1,2 +1,2 @@
 # Grip_Task1-BankingSystem
-Built a project regarding Banking System which shows the transaction happening between customers.
+It's a simple banking system where the customers can do transaction among themselves and check the transaction is update or not.
